@@ -15,7 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "commit-message-install": "1.10.1",
-    "ok-file": "1.4.0"
+    "ok-file": "1.4.0",
+    "cypress": "2.0.2"
   },
   "repository": {
     "type": "git",
